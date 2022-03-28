@@ -1,1 +1,1 @@
-# machine-learning-tensorflowjs-comment-spam-detection
+Google AI Course: Comment Spam Detection.
